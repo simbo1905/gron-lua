@@ -1,7 +1,7 @@
 package = "gron-lua"
 version = "0.0.1-1"
 source = {
-    url = "git://github.com/simbo1905/gron-lua.git",
+    url = "https://github.com/simbo1905/gron-lua.git",
     tag = "v0.0.1"
 }
 description = {
