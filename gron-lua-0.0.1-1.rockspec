@@ -1,8 +1,8 @@
 package = "gron-lua"
 version = "0.0.1-1"
 source = {
-    url = "https://github.com/simbo1905/gron-lua.git",
-    tag = "v0.0.1"
+    url = "https://github.com/simbo1905/gron-lua/archive/refs/tags/v0.0.1.tar.gz",
+    dir = "gron-lua-0.0.1"
 }
 description = {
     summary = "Transform JSON into discrete assignments to make it greppable",
