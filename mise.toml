@@ -1,0 +1,6 @@
+[tools]
+just = "latest"
+
+[env]
+# Use system LuaJIT from Homebrew (brew install luajit)
+# LuaJIT 2.1 is required for ARM64/Apple Silicon support
